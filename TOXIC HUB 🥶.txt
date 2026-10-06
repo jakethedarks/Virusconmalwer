@@ -1265,7 +1265,7 @@ WindUI:Notify({
 })
 --// AUTO CHAT MESSAGE
 task.spawn(function()
-    local chatMsg = "------------////TOXIC ez V1 regado (zoypen-)////-----------------"
+    local chatMsg = "------------////bangez V1 ya lo deofusque (zoymancoyusobang-)////-----------------"
     pcall(function()
         if game:GetService("TextChatService").ChatVersion == Enum.ChatVersion.TextChatService then
             game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(chatMsg)
